@@ -3,4 +3,4 @@ learning_and_practice
 All codebases in this folder are for learning and practice exercises.
 
 List of exercises:
-1. 
+alien_invasion - Game of Alien Invasion taken from the "Python Crash Course" textbook.
